@@ -1,0 +1,34 @@
+com.example.wastemanagement.app-lifecycle-livedata-core-2.6.2-0 C:\Users\Albin Thomas\.gradle\caches\transforms-4\0761129da83747d0c7521ada8d4b51f6\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.wastemanagement.app-annotation-experimental-1.4.0-1 C:\Users\Albin Thomas\.gradle\caches\transforms-4\12580464bb9a2544399868e222d55bca\transformed\annotation-experimental-1.4.0\res
+com.example.wastemanagement.app-constraintlayout-2.1.4-2 C:\Users\Albin Thomas\.gradle\caches\transforms-4\1f03f270c3ef922c5a80428eee8a83da\transformed\constraintlayout-2.1.4\res
+com.example.wastemanagement.app-fragment-1.5.4-3 C:\Users\Albin Thomas\.gradle\caches\transforms-4\20cd8a2c4fb21032e4ded06a65b9504e\transformed\fragment-1.5.4\res
+com.example.wastemanagement.app-core-runtime-2.2.0-4 C:\Users\Albin Thomas\.gradle\caches\transforms-4\22a8f343f50013052ae3d158b858d8b2\transformed\core-runtime-2.2.0\res
+com.example.wastemanagement.app-material-1.12.0-5 C:\Users\Albin Thomas\.gradle\caches\transforms-4\23d24d634cd81dbfa63edceb7874bf1d\transformed\material-1.12.0\res
+com.example.wastemanagement.app-cardview-1.0.0-6 C:\Users\Albin Thomas\.gradle\caches\transforms-4\2a9c8ef32340c9758a7f0ec952e5e891\transformed\cardview-1.0.0\res
+com.example.wastemanagement.app-transition-1.5.0-7 C:\Users\Albin Thomas\.gradle\caches\transforms-4\2c1353fe57e5f199d3f4496897c946c7\transformed\transition-1.5.0\res
+com.example.wastemanagement.app-recyclerview-1.1.0-8 C:\Users\Albin Thomas\.gradle\caches\transforms-4\2d83e8977654c7aa65f6f18bdc0feeaf\transformed\recyclerview-1.1.0\res
+com.example.wastemanagement.app-core-ktx-1.13.0-9 C:\Users\Albin Thomas\.gradle\caches\transforms-4\30f537ae07c34fd41f0fa4a2a31063d2\transformed\core-ktx-1.13.0\res
+com.example.wastemanagement.app-startup-runtime-1.1.1-10 C:\Users\Albin Thomas\.gradle\caches\transforms-4\4473a3cb0f60470108055286d737642d\transformed\startup-runtime-1.1.1\res
+com.example.wastemanagement.app-lifecycle-viewmodel-savedstate-2.6.2-11 C:\Users\Albin Thomas\.gradle\caches\transforms-4\479efc67e7bb79f736f590b03984deff\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.wastemanagement.app-lifecycle-process-2.6.2-12 C:\Users\Albin Thomas\.gradle\caches\transforms-4\4c87fbedc9edf201d5ae400d58d6ab38\transformed\lifecycle-process-2.6.2\res
+com.example.wastemanagement.app-activity-1.9.1-13 C:\Users\Albin Thomas\.gradle\caches\transforms-4\577d82001e97b0b53a0259bd540a844f\transformed\activity-1.9.1\res
+com.example.wastemanagement.app-profileinstaller-1.3.1-14 C:\Users\Albin Thomas\.gradle\caches\transforms-4\60837548fc383977752a54579d6edb8b\transformed\profileinstaller-1.3.1\res
+com.example.wastemanagement.app-appcompat-1.7.0-15 C:\Users\Albin Thomas\.gradle\caches\transforms-4\6f9186138fa634f6609e5978bfbee9e7\transformed\appcompat-1.7.0\res
+com.example.wastemanagement.app-emoji2-1.3.0-16 C:\Users\Albin Thomas\.gradle\caches\transforms-4\8d2fd6dc8b1eae2a53263dbe28c24c2e\transformed\emoji2-1.3.0\res
+com.example.wastemanagement.app-lifecycle-livedata-2.6.2-17 C:\Users\Albin Thomas\.gradle\caches\transforms-4\8e15427989db7d45100b08c762f50bf7\transformed\lifecycle-livedata-2.6.2\res
+com.example.wastemanagement.app-core-1.13.0-18 C:\Users\Albin Thomas\.gradle\caches\transforms-4\9c91ebd5c28fb503cfaa021a0ee44aa9\transformed\core-1.13.0\res
+com.example.wastemanagement.app-savedstate-1.2.1-19 C:\Users\Albin Thomas\.gradle\caches\transforms-4\9e91282d634840dd46eddaac4045234e\transformed\savedstate-1.2.1\res
+com.example.wastemanagement.app-lifecycle-viewmodel-2.6.2-20 C:\Users\Albin Thomas\.gradle\caches\transforms-4\b67a6c61137d1b949fde2caa35910b08\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.wastemanagement.app-lifecycle-runtime-2.6.2-21 C:\Users\Albin Thomas\.gradle\caches\transforms-4\bb46fb3d198c8ecc1284e14e161a3ae8\transformed\lifecycle-runtime-2.6.2\res
+com.example.wastemanagement.app-appcompat-resources-1.7.0-22 C:\Users\Albin Thomas\.gradle\caches\transforms-4\c1fb9eb7178bc6660ea8f4bd4bacafe3\transformed\appcompat-resources-1.7.0\res
+com.example.wastemanagement.app-drawerlayout-1.1.1-23 C:\Users\Albin Thomas\.gradle\caches\transforms-4\c38ee1bcf9c3e9b4f319019c2f13c11c\transformed\drawerlayout-1.1.1\res
+com.example.wastemanagement.app-emoji2-views-helper-1.3.0-24 C:\Users\Albin Thomas\.gradle\caches\transforms-4\d547f65fb73308f0026f8d1e893158ad\transformed\emoji2-views-helper-1.3.0\res
+com.example.wastemanagement.app-coordinatorlayout-1.1.0-25 C:\Users\Albin Thomas\.gradle\caches\transforms-4\e4af35c6b3125b36110d1753b0172c2f\transformed\coordinatorlayout-1.1.0\res
+com.example.wastemanagement.app-viewpager2-1.0.0-26 C:\Users\Albin Thomas\.gradle\caches\transforms-4\ee98dc546bcd64e120554f4caec18934\transformed\viewpager2-1.0.0\res
+com.example.wastemanagement.app-pngs-27 D:\Exam android Final project\wastemanagement\app\build\generated\res\pngs\debug
+com.example.wastemanagement.app-resValues-28 D:\Exam android Final project\wastemanagement\app\build\generated\res\resValues\debug
+com.example.wastemanagement.app-packageDebugResources-29 D:\Exam android Final project\wastemanagement\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.wastemanagement.app-packageDebugResources-30 D:\Exam android Final project\wastemanagement\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.wastemanagement.app-debug-31 D:\Exam android Final project\wastemanagement\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.wastemanagement.app-debug-32 D:\Exam android Final project\wastemanagement\app\src\debug\res
+com.example.wastemanagement.app-main-33 D:\Exam android Final project\wastemanagement\app\src\main\res
